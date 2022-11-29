@@ -1,12 +1,10 @@
 # passwordgenerator
 
-This code for the Password Generator was made in Javascript. The code was create  so random numbers
+This challenge was to fix a password generator to generate a password.
+This code for the Password Generator was made in Javascript.
 
+## Acceptance Criteria
 
-
-
-
-Acceptance Criteria
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -22,3 +20,20 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+## Screenshot
+
+![screenshot](./Develop/Img/PWGen.png
+
+I wrote all the character needed to be use to generate the password.
+![screenshot](./Develop/Img/varNum.png)
+
+I then made a loop for the user to follow the prompt by asking series of questions if they want certain characters to be use with in passwords.
+
+![screenshot](./Develop/Img/Screen%20Shot%202022-11-28%20at%2010.11.10%20PM.png)
+
+Once all the criteria is met. The password will generate!
+
+![screenshot](./Develop/Img/Genpw.png)
+
+## Website
